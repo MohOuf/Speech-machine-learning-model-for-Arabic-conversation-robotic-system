@@ -15,6 +15,7 @@ Link for my Chat-Bot ---> https://web-chat.global.assistant.watson.cloud.ibm.com
 * 2.04: Activate the Chat-bot by typing: activate (the name of your chat-bot) 
 * 2.05: Download the following packages in the anaconda (TenserFlow, tflearn, nltk) to use their libraries
   
-#upload the files (intents, main) from the link below in visual studio : https://drive.google.com/drive/folders/1UPVviJlU1b847w7-utHpYuacG2eaOS75 
+###Code: 
+ 
 to Lunch the bot type : python main.py 
  
