@@ -168,5 +168,5 @@ chat()
    ]
 }
  ```
-to Lunch the bot type : python main.py 
+
  
